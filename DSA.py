@@ -1,0 +1,6 @@
+a = int(input("enter the number : "))
+b = input("enter the name : ")
+c = input("enter tha character : ")
+print(a)
+print(b)
+print(c)
